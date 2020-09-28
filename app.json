@@ -2,7 +2,7 @@
   "name": "Start on Heroku: Python",
   "description": "A barebones Python app, which can easily be deployed to Heroku.",
   "image": "heroku/python",
-  "repository": "https://github.com/uverodev/biblioteca-test",
+  "repository": "https://github.com/uverodev/test-driandre",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
